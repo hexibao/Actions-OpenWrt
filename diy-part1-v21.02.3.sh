@@ -18,6 +18,7 @@
 # git clone https://github.com/siwind/openwrt-vlmcsd package/vlmcsd
 # git clone https://github.com/siwind/luci-app-vlmcsd.git package/luci-app-vlmcsd
 # git clone https://github.com/siwind/luci-app-usb_printer.git package/luci-app-usb_printer
+git clone https://github.com/zhengmz/luci-app-zerotier.git package/luci-app-zerotier
 
 wget https://raw.githubusercontent.com/TsXor/my-openwrt-archive/master/zte_e8820s/orig-v21.02.3/code.tar.gz
 tar -zxvf code.tar.gz
